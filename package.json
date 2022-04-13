@@ -8,7 +8,7 @@
     "test": "exit 0"
   },
   "dependencies": {
-    "@newrelic/nr1-community": "^1.1.1",
+    "@newrelic/nr1-community": "^1.2.0",
     "graphiql": "^0.17.5",
     "graphiql-explorer": "git+https://github.com/mattbaker/graphiql-explorer.git",
     "graphql": "^0.13.2",
